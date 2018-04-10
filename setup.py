@@ -25,7 +25,7 @@ setup(
    name="catslog",
    version='1.0.6',
    py_modules=['catslog'],
-   description="Logs the execution of the wrapped function and, if applicable, does a basic handling of the raised exception",
+   description="Logs the execution of the wrapped function and, if applicable, does a basic handling of the raised exception. Please check the github page for more detailed instructions",
    url='https://github.com/PeriGK/catslog',
    author='Periklis Gkolias',
    long_description_content_type='text/markdown',
