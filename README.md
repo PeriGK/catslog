@@ -26,11 +26,11 @@ from catslog import catslog
 # Then, decorate a target function
 @catslog
 def cats_me_if_you_can(*args, **kwargs):
-...
+ # Moar code
 ```
 
 ## I have python 1.3, will it work?
-Unfortunately no. I have developed it and tested it, using python3. But if you have done it, please check the next section.
+Unfortunately no. I have developed it and tested it, using python3. But if you have done it, please check the next section. I am more than happy to hear from you.
 
 ## I have forked your repository and extended it a bit. Do you want to take a look?
 Thats great,feel free to raise a pull request and I will have a look asap.
