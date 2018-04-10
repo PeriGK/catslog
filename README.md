@@ -34,3 +34,14 @@ Unfortunately no. I have developed it and tested it, using python3. But if you h
 
 ## I have forked your repository and extended it a bit. Do you want to take a look?
 Thats great,feel free to raise a pull request and I will have a look asap.
+
+## How to build from source
+Pretty simple.
+First build the package:
+```
+python setup.py bdist_wheel
+```
+and then install the local build
+```
+pip install -e .
+```
