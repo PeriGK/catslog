@@ -23,7 +23,7 @@ from setuptools import setup
 
 setup(
    name="catslog",
-   version='1.0.6',
+   version='1.0.7',
    py_modules=['catslog'],
    description="Logs the execution of the wrapped function and, if applicable, does a basic handling of the raised exception. Please check the github page for more detailed instructions",
    url='https://github.com/PeriGK/catslog',
