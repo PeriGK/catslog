@@ -32,8 +32,8 @@ def cats_me_if_you_can(*args, **kwargs):
 ## I have python 1.3, will it work?
 Unfortunately no. I have developed it and tested it, only with python3. But if you have done it, please check the next section. I am more than happy to hear from you.
 
-## I have forked your repository and extended it a bit. Do you want to take a look?
-Thats great,feel free to raise a pull request and I will have a look asap.
+## I have forked your repository and extended it a bit. Would you like to take a look?
+Thats great, thank you in advance for your efforts. Feel free to raise a pull request and I will have a look asap.
 
 ## How to build from source
 Pretty simple.
