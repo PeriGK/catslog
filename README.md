@@ -3,7 +3,7 @@
 ## About
 A python package which, as implied by it's name, does two things. Logs(function execution along with the arguments passed) and catch(es) a potential exception. It is a name combination of two things people love. [(Chocolate)logs](https://www.bbcgoodfood.com/recipes/8767/yummy-chocolate-log) and [cats](https://www.youtube.com/watch?v=5dsGWM5XGdg).
 
-## Why are you occupying bits(original goal)?
+## Why are you occupying bits from the internetz(original goal)?
 The original goal, was to get rid of some boilerplate code, because I noticed "too many functions" in my statistical sample, follow the pattern:
 
 - Enter function body
