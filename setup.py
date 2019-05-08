@@ -19,7 +19,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="catslog",
-    version='1.0.7',
+    version='1.0.9',
     py_modules=['catslog'],
     description="Logs the execution of the wrapped function and, if applicable, does a basic handling of the raised exception. Please check the github page for more detailed instructions",
     url='https://github.com/PeriGK/catslog',
